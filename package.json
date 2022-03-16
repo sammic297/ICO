@@ -1,0 +1,20 @@
+{
+  "name": "ico",
+  "version": "1.0.0",
+  "description": "Hardhat, Solidity, Ethers.js, and Next.js \r <br>\r A learning path using https://learnweb3.io Sophomore track",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammic297/ICO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammic297/ICO/issues"
+  },
+  "homepage": "https://github.com/sammic297/ICO#readme"
+}
