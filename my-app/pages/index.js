@@ -321,7 +321,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to Crypto Devs ICO!</h1>
           <div className={styles.description}>
-            You can claim or mint Crypto Dev tokens here
+            You can claim or mint CD tokens here
           </div>
           {walletConnected ? (
             <div>
@@ -348,7 +348,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by Crypto Devs
+        Made with &#10084; by Odey
       </footer>
     </div>
   );
